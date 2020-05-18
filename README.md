@@ -77,3 +77,7 @@ http://transcendrobotics.com/
 
 # Authour:
 Di Zeng 
+
+# 需要注意的地方-by jjj
+在主机上插的时候需要插在后面而不是前面
+
