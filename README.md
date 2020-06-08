@@ -78,6 +78,6 @@ http://transcendrobotics.com/
 # Authour:
 Di Zeng 
 
-# 需要注意的地方-by jjj
-在主机上插的时候需要插在后面而不是前面
-
+# 需要注意的地方
+1. 在主机上插的时候需要插在后面而不是前面
+2. 在笔记本作为载体的时候需要注意device_name 的这个param，而且需要格外注意，如果换成video1不能成功，那么尝试**插上**USBhub进行实验！！！！不然一直都会是video0在占用。
