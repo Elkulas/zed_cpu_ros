@@ -11,6 +11,7 @@
 	<param name="left_frame_id" value="left_frame"/>
 	<param name="right_frame_id" value="left_frame"/>
 	<param name="device_name" value="/dev/video1"/>
+	<param name="encoding" value="bgr8"/>
 	<param name="load_zed_config" value="true"/>
 </node>
 
